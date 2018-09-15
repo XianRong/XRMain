@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XRMain_Example' do
+  pod 'XRMain', :path => '../'
+
+  target 'XRMain_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
