@@ -1,0 +1,6 @@
+framework module Pods_XRMain_Tests {
+  umbrella header "Pods-XRMain_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

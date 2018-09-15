@@ -1,0 +1,16 @@
+PODS:
+  - XRMain (0.1.0)
+
+DEPENDENCIES:
+  - XRMain (from `../`)
+
+EXTERNAL SOURCES:
+  XRMain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XRMain: 30b3835c31723286f1abb14ef94350e8793cab57
+
+PODFILE CHECKSUM: 7f1f29e17bf7770e862f342300d636eefc0fb21b
+
+COCOAPODS: 1.5.3
