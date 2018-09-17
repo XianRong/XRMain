@@ -1,6 +1,6 @@
 {
   "name": "XRMain",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "XRMain.",
   "description": "项目主骨架组件",
   "homepage": "https://github.com/XianRong/XRMain",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/XianRong/XRMain.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
